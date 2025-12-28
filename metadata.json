@@ -1,0 +1,7 @@
+{
+  "name": "GrainBroker Pro",
+  "description": "A comprehensive mobile-first CRM and management tool for grain brokers to manage companies, track bookings, and analyze brokerage performance with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
